@@ -52,6 +52,10 @@ class Account{
 		deposit-=amount;
 		return amount;
 	}
+	
+	public double withdrawTest(double amount) {
+		return amount;
+	}
 
 	public double getDeposit() {
 		return deposit;
